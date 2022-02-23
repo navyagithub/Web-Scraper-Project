@@ -1,0 +1,10 @@
+com\ttj\webscraper\SwaggerConfig.class
+com\ttj\webscraper\model\ScrapData.class
+com\ttj\webscraper\service\WebScraperServiceImpl.class
+com\ttj\webscraper\util\ScappiUtil.class
+com\ttj\webscraper\util\ScrapRepository.class
+com\ttj\webscraper\CorsConfig.class
+com\ttj\webscraper\service\WebScraperService.class
+com\ttj\webscraper\rest\WebScraperEndpoint.class
+com\ttj\webscraper\util\ScrapMetaData.class
+com\ttj\webscraper\WebScraperApplication.class
